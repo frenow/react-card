@@ -1,1 +1,1 @@
-react-card-dun.vercel.app/
+https://react-card-dun.vercel.app/
